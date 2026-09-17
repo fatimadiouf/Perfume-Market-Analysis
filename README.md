@@ -1,10 +1,10 @@
-# 🌸 Analyse et Profilage Olfactif du Marché des Parfums (Perfume Market Analysis)
+#  Analyse et Profilage Olfactif du Marché des Parfums (Perfume Market Analysis)
 
 Ce projet propose une analyse structurée et un système de profilage olfactif basé sur des données de parfumerie, reliant familles olfactives, notes dominantes, émotions associées et occasions d'usage.
 
 ---
 
-## 🎯 Objectifs du Projet
+##  Objectifs du Projet
 
 1. **Structuration & Traitement des Données de Parfumerie** :
    - Standardisation des familles olfactives (Musquée, Florale, Fruitée, Gourmande, Orientale, etc.).
@@ -15,7 +15,7 @@ Ce projet propose une analyse structurée et un système de profilage olfactif b
 
 ---
 
-## 🛠️ Technologies et Librairies Utilisées
+##  Technologies et Librairies Utilisées
 
 - **Langage** : Python 3
 - **Manipulation de Données** : `pandas`, `numpy`
@@ -23,7 +23,7 @@ Ce projet propose une analyse structurée et un système de profilage olfactif b
 
 ---
 
-## 🚀 Installation et Utilisation
+##  Installation et Utilisation
 
 ```bash
 git clone https://github.com/fatimadiouf/Perfume-Market-Analysis.git
@@ -34,6 +34,6 @@ jupyter notebook perfume_market_analysis.ipynb
 
 ---
 
-## 👩‍💻 Auteur
+##  Auteur
 
 * **Fatima DIOUF** - [GitHub @fatimadiouf](https://github.com/fatimadiouf)
